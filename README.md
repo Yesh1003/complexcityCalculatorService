@@ -1,1 +1,1 @@
-# complexcityCalculatorService
+# complexity-calculator-service
